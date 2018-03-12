@@ -1,0 +1,2 @@
+# proiectinfo
+Proiectul meu
